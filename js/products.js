@@ -29,12 +29,12 @@ const PRODUCTS = [
   },
   {
     id: "trimiliks-colecao",
-    name: "Trimiliks — Bichinhos Articulados",
-    price: 59.90,
-    category: "geek",
+    name: "Trimiliks — Monstrinhos Articulados",
+    price: 29.90,
+    category: "infantil",
     image: "images/prod-trimiliks.png",
     description:
-      "Coleção exclusiva ATJ2 Store de bichinhos fofinhos articulados e colecionáveis, impressos em 3D com alta definição. Perfeitos para presente, decoração de mesa ou para crianças a partir de 6 anos.",
+      "Coleção exclusiva ATJ2 Store de bichinhos fofinhos articulados e colecionáveis, impressos em 3D com alta definição. Perfeitos para presente, decoração de mesa ou para crianças a partir de 2 anos.",
     variations: {
       cor: ["Rosa", "Azul", "Amarelo", "Surpresa"],
       tamanho: ["Mini 6cm", "Médio 10cm"]
